@@ -13,3 +13,8 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+def info = ['username':'','password' : ''];
+def data = findTestData("Data Files/LoginTestData");
+info.username = data.getValue(1,1);
+info.password = data.getValue(2,1);
+return info 

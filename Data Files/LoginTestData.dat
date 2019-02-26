@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Login Test Data</name>
+   <name>LoginTestData</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
@@ -10,7 +10,7 @@
    <driver>DBData</driver>
    <isInternalPath>false</isInternalPath>
    <password></password>
-   <query>select username, password from dbo.ACCOUNT;</query>
+   <query>select top 1 username, password from dbo.ACCOUNT;</query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
    <user></user>

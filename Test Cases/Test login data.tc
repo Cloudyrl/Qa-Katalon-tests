@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Preuba</name>
+   <name>Test login data</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d93a8031-2fbb-4891-90d2-e8974a0cd8d1</testCaseGuid>
+   <testCaseGuid>c5fdd0bb-f546-4d24-8c07-69f47dbf2690</testCaseGuid>
 </TestCaseEntity>

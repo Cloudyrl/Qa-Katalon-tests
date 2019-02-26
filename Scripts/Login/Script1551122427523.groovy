@@ -16,9 +16,15 @@ import testlink.api.java.client.TestLinkAPIClient as TestLinkAPIClient
 import testlink.api.java.client.TestLinkAPIException as TestLinkAPIException
 import testlink.api.java.client.TestLinkAPIResults as TestLinkAPIResults
 
+def info = WebUI.callTestCase(findTestCase('Test login data'), [:], FailureHandling.STOP_ON_FAILURE);
+def username = info.username;
+def password = info.password;
+
+// rommel key f7a213e815b5649bcd5ee4ef350b3992
+
 public class AutomatedUpdateExample {
 	
-	public static String DEVKEY="1831d2a0d3ffaeb921542bddf0621779"; //Colocar key del testlink personal
+	public static String DEVKEY="f7a213e815b5649bcd5ee4ef350b3992"; //Colocar key del testlink personal
 	
 	public static String URL="http://localhost/testlink/lib/api/xmlrpc/v1/xmlrpc.php";
 	
@@ -28,9 +34,7 @@ public class AutomatedUpdateExample {
 	}
 }	
 
-Test()
-
-void Test() throws Exception {
+void Test(def username,def password) throws Exception {
     AutomatedUpdateExample a = new AutomatedUpdateExample()
 
     String testProject = 'Proyecto QA'
@@ -46,13 +50,14 @@ void Test() throws Exception {
     String notes = null
 
     try {
+
         WebUI.openBrowser('')
 
         WebUI.navigateToUrl('http://localhost:50447/Views/Login.aspx')
 
-        WebUI.setText(findTestObject('Page_Login  inResorts/input_Usuario_txtUsuario'), usernameV)
-
-        WebUI.setEncryptedText(findTestObject('Page_Login  inResorts/input_Contrasea_txtPassword'), passwordV)
+        WebUI.setText(findTestObject('Page_Login  inResorts/input_Usuario_txtUsuario'), username)
+		
+        WebUI.setText(findTestObject('Page_Login  inResorts/input_Contrasea_txtPassword'), password)
 
         WebUI.click(findTestObject('Page_Login  inResorts/input_Recordar Contrasea_btnLo'))
 
@@ -74,3 +79,4 @@ void Test() throws Exception {
     }
 }
 
+Test(username,password);
