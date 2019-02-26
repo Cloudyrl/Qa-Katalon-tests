@@ -9,8 +9,10 @@
    <dataSourceUrl></dataSourceUrl>
    <driver>DBData</driver>
    <isInternalPath>false</isInternalPath>
-   <query></query>
+   <password></password>
+   <query>select username, password from dbo.ACCOUNT;</query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
-   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
 </DataFileEntity>
