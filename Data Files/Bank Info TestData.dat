@@ -10,7 +10,7 @@
    <driver>DBData</driver>
    <isInternalPath>false</isInternalPath>
    <password></password>
-   <query>select NameAccountHolder, NumberContribuyente, NumberAccount, RazonSocial, FiscalAddress from dbo.[DATA.PERSON.BANK];</query>
+   <query>select TOP 3 NameAccountHolder, NumberContribuyente, NumberAccount, RazonSocial, FiscalAddress from dbo.[DATA.PERSON.BANK];</query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
    <user></user>
