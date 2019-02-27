@@ -16,10 +16,6 @@ import testlink.api.java.client.TestLinkAPIClient as TestLinkAPIClient
 import testlink.api.java.client.TestLinkAPIException as TestLinkAPIException
 import testlink.api.java.client.TestLinkAPIResults as TestLinkAPIResults
 
-def info = WebUI.callTestCase(findTestCase('Test login data'), [:], FailureHandling.STOP_ON_FAILURE);
-def username = info.username;
-def password = info.password;
-
 // rommel key f7a213e815b5649bcd5ee4ef350b3992
 // angel key 1831d2a0d3ffaeb921542bddf0621779
 
@@ -33,16 +29,18 @@ public class AutomatedUpdateExample {
 	TestLinkAPIClient api=new TestLinkAPIClient(DEVKEY, URL);
 	api.reportTestCaseResult(TestProject, TestPlan, Testcase, Build, Notes, Result);
 	}
-}	
+}
 
-void Test(def username,def password) throws Exception {
+Test()
+
+void Test() throws Exception {
     AutomatedUpdateExample a = new AutomatedUpdateExample()
 
     String testProject = 'Proyecto QA'
 
     String testPlan = 'Plan'
 
-    String testCase = 'Login'
+    String testCase = 'Edición de datos bancarios'
 
     String build = 'Build'
 
@@ -51,18 +49,35 @@ void Test(def username,def password) throws Exception {
     String notes = null
 
     try {
-
         WebUI.openBrowser('')
 
         WebUI.navigateToUrl('http://localhost:50447/Views/Login.aspx')
 
-        WebUI.setText(findTestObject('Page_Login  inResorts/input_Usuario_txtUsuario'), username)
-		
-        WebUI.setText(findTestObject('Page_Login  inResorts/input_Contrasea_txtPassword'), password)
+        WebUI.setText(findTestObject('Page_Login  inResorts/input_Usuario_txtUsuario (1)'), 'userQa')
 
-        WebUI.click(findTestObject('Page_Login  inResorts/input_Recordar Contrasea_btnLo'))
+        WebUI.setEncryptedText(findTestObject('Page_Login  inResorts/input_Contrasea_txtPassword (1)'), 'FVZhtmnLu/c=')
 
-        WebUI.click(findTestObject('Object Repository/Page_Inicio  inResorts/img_Salir_img-responsive'))
+        WebUI.click(findTestObject('Page_Login  inResorts/input_Recordar Contrasea_btnLo (1)'))
+
+        WebUI.click(findTestObject('Object Repository/Page_Inicio  inResorts/span_Hola Omar Urteaga Cabrera'))
+
+        WebUI.click(findTestObject('Object Repository/Page_Inicio  inResorts/a_Cuenta'))
+
+        WebUI.click(findTestObject('Object Repository/Page_Editar Socio  inResorts/a_Datos bancarios'))
+
+        WebUI.setText(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Nombre del titular de cu'), NombreC)
+
+        WebUI.click(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Tipo de Cuenta_Cuenta'))
+
+        WebUI.setText(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Nmero de Cuenta_txtNumCu'), NumeroCuenta)
+
+        WebUI.setText(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Numero de Contribuyente_'), NumeroContribuyente)
+
+        WebUI.setText(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Direccin Fiscal_txtFisca'), DireccionFiscal)
+
+        WebUI.setText(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Razn Social_txtBusinessN'), RazonSocial)
+
+        WebUI.click(findTestObject('Object Repository/Page_Editar Socio  inResorts/input_Cancelar_btnSaveDataBank'))
 
         WebUI.closeBrowser()
 
@@ -80,4 +95,3 @@ void Test(def username,def password) throws Exception {
     }
 }
 
-Test(username,password);

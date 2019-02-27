@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite de Pruebas,,,2019-02-26 21:14:15,2019-02-26 21:14:26,"10,582s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:17,2019-02-26 21:14:19,"2,573s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:19,2019-02-26 21:14:20,"1,087s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:20,2019-02-26 21:14:21,"0,822s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:21,2019-02-26 21:14:22,"0,900s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:22,2019-02-26 21:14:23,"0,998s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:23,2019-02-26 21:14:25,"1,387s",ERROR
+,,,,,,
+Test Cases/Editar datos bancarios,,,2019-02-26 21:14:25,2019-02-26 21:14:25,"0,750s",ERROR

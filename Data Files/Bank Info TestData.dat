@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Bank Info TestData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>460e5b3d-9223-483f-9463-63c38c96b4f9</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select NameAccountHolder, NumberContribuyente, NumberAccount, RazonSocial, FiscalAddress from dbo.[DATA.PERSON.BANK];</query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

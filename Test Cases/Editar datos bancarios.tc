@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editar datos bancarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06c7a7b9-e6e5-4a84-95ae-96a874fb1fc9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92e05b65-c161-4c7d-95d2-a0137dd3cf38</id>
+      <masked>false</masked>
+      <name>NombreC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee97457d-48ab-4220-adff-06753b0d4732</id>
+      <masked>false</masked>
+      <name>NumeroCuenta</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7737001-6a2e-495b-8d04-4ffc84d17a69</id>
+      <masked>false</masked>
+      <name>NumeroContribuyente</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>702e891b-5cd2-4fa2-b9c0-7c7463fa4c59</id>
+      <masked>false</masked>
+      <name>RazonSocial</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aacbb4d1-c9a1-4cbc-8c07-b7d6c50fed0e</id>
+      <masked>false</masked>
+      <name>DireccionFiscal</name>
+   </variable>
+</TestCaseEntity>
