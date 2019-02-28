@@ -3828,3 +3828,186 @@
   <property name="startLine">30</property>
   <property name="stepIndex">2</property>
 </record>
+</log><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-02-28T01:03:54</date>
+  <millis>1551330234995</millis>
+  <sequence>680</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:04:15</date>
+  <millis>1551330255527</millis>
+  <sequence>684</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:05:29</date>
+  <millis>1551330329527</millis>
+  <sequence>688</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:05:37</date>
+  <millis>1551330337620</millis>
+  <sequence>692</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:05:45</date>
+  <millis>1551330345370</millis>
+  <sequence>696</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:06:14</date>
+  <millis>1551330374336</millis>
+  <sequence>703</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:06:21</date>
+  <millis>1551330381273</millis>
+  <sequence>707</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:06:46</date>
+  <millis>1551330406612</millis>
+  <sequence>711</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:07:30</date>
+  <millis>1551330450753</millis>
+  <sequence>712</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:08:18</date>
+  <millis>1551330498501</millis>
+  <sequence>713</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:08:39</date>
+  <millis>1551330519079</millis>
+  <sequence>714</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:09:06</date>
+  <millis>1551330546314</millis>
+  <sequence>715</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:09:20</date>
+  <millis>1551330560189</millis>
+  <sequence>719</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:09:30</date>
+  <millis>1551330570517</millis>
+  <sequence>723</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
+<record>
+  <date>2019-02-28T01:09:39</date>
+  <millis>1551330579641</millis>
+  <sequence>727</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = Microsoft SQL Server 13.00.4206</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="dbServerInfo">Microsoft SQL Server 13.00.4206</property>
+</record>
