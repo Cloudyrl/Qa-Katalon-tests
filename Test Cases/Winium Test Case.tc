@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Usando la aplicacion de calculadora</description>
+   <name>Winium Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>746aad65-cf8f-4d80-ac26-f2ecc4a66511</testCaseGuid>
+</TestCaseEntity>
