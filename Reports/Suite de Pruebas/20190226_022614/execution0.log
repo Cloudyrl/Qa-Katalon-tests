@@ -3867,3 +3867,511 @@ Caused by: java.lang.NoClassDefFoundError: Unable to load class AutomatedUpdateE
   <nestedLevel>0</nestedLevel>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-03-03T09:51:29</date>
+  <millis>1551635489048</millis>
+  <sequence>152</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>232</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T09:51:29</date>
+  <millis>1551635489069</millis>
+  <sequence>153</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>232</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T09:51:29</date>
+  <millis>1551635489069</millis>
+  <sequence>154</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>232</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T09:51:29</date>
+  <millis>1551635489070</millis>
+  <sequence>155</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>232</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T09:51:29</date>
+  <millis>1551635489070</millis>
+  <sequence>156</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>232</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T09:51:29</date>
+  <millis>1551635489070</millis>
+  <sequence>157</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>232</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+<record>
+  <date>2019-03-03T10:03:58</date>
+  <millis>1551636238264</millis>
+  <sequence>159</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>249</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T10:03:58</date>
+  <millis>1551636238265</millis>
+  <sequence>160</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>249</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T10:03:58</date>
+  <millis>1551636238265</millis>
+  <sequence>161</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>249</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T10:03:58</date>
+  <millis>1551636238266</millis>
+  <sequence>162</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>249</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T10:03:58</date>
+  <millis>1551636238266</millis>
+  <sequence>163</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>249</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T10:03:58</date>
+  <millis>1551636238266</millis>
+  <sequence>164</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>249</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+<record>
+  <date>2019-03-03T10:07:41</date>
+  <millis>1551636461373</millis>
+  <sequence>166</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>261</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T10:07:41</date>
+  <millis>1551636461373</millis>
+  <sequence>167</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>261</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T10:07:41</date>
+  <millis>1551636461373</millis>
+  <sequence>168</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>261</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T10:07:41</date>
+  <millis>1551636461374</millis>
+  <sequence>169</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>261</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T10:07:41</date>
+  <millis>1551636461374</millis>
+  <sequence>170</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>261</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T10:07:41</date>
+  <millis>1551636461374</millis>
+  <sequence>171</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>261</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+<record>
+  <date>2019-03-03T10:08:34</date>
+  <millis>1551636514314</millis>
+  <sequence>173</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>274</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T10:08:34</date>
+  <millis>1551636514314</millis>
+  <sequence>174</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>274</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T10:08:34</date>
+  <millis>1551636514314</millis>
+  <sequence>175</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>274</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T10:08:34</date>
+  <millis>1551636514314</millis>
+  <sequence>176</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>274</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T10:08:34</date>
+  <millis>1551636514314</millis>
+  <sequence>177</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>274</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T10:08:34</date>
+  <millis>1551636514314</millis>
+  <sequence>178</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>274</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+<record>
+  <date>2019-03-03T10:10:30</date>
+  <millis>1551636630114</millis>
+  <sequence>180</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T10:10:30</date>
+  <millis>1551636630114</millis>
+  <sequence>181</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T10:10:30</date>
+  <millis>1551636630115</millis>
+  <sequence>182</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T10:10:30</date>
+  <millis>1551636630115</millis>
+  <sequence>183</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T10:10:30</date>
+  <millis>1551636630115</millis>
+  <sequence>184</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T10:10:30</date>
+  <millis>1551636630115</millis>
+  <sequence>185</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+<record>
+  <date>2019-03-03T11:29:46</date>
+  <millis>1551641386685</millis>
+  <sequence>187</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>320</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T11:29:46</date>
+  <millis>1551641386685</millis>
+  <sequence>188</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>320</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T11:29:46</date>
+  <millis>1551641386685</millis>
+  <sequence>189</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>320</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T11:29:46</date>
+  <millis>1551641386685</millis>
+  <sequence>190</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>320</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T11:29:46</date>
+  <millis>1551641386685</millis>
+  <sequence>191</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>320</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T11:29:46</date>
+  <millis>1551641386685</millis>
+  <sequence>192</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>320</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+<record>
+  <date>2019-03-03T11:30:48</date>
+  <millis>1551641448203</millis>
+  <sequence>194</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>deviceId = d7e86a33</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">d7e86a33</property>
+</record>
+<record>
+  <date>2019-03-03T11:30:48</date>
+  <millis>1551641448204</millis>
+  <sequence>195</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>deviceName = Xiaomi Redmi Note 5 (Android 8.1.0)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 5 (Android 8.1.0)</property>
+</record>
+<record>
+  <date>2019-03-03T11:30:48</date>
+  <millis>1551641448204</millis>
+  <sequence>196</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>deviceModel = Redmi Note 5</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 5</property>
+</record>
+<record>
+  <date>2019-03-03T11:30:48</date>
+  <millis>1551641448204</millis>
+  <sequence>197</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>deviceManufacturer = Xiaomi</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2019-03-03T11:30:48</date>
+  <millis>1551641448204</millis>
+  <sequence>198</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2019-03-03T11:30:48</date>
+  <millis>1551641448204</millis>
+  <sequence>199</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>deviceOSVersion = 8.1.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.1.0</property>
+</record>
+</log>
